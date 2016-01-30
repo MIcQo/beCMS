@@ -8,6 +8,7 @@
 
     public function init() {
       $init = 0;
+      
     }
 
     public function buildHTML() {
